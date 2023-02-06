@@ -1,0 +1,345 @@
+{
+    "questions":
+    [
+      {
+        "question": "Máy tính đầu tiên được sản xuất vào năm mấy?",
+        "answer": "1943"
+      },
+      {
+        "question": "Tên viết tắt của máy tính đầu tiên được sản xuất?",
+        "answer": "ENIAC"
+      },
+      {
+        "question": "Hệ máy tính đầu tiên dùng giao diện có màu?",
+        "answer": "APPLE1"
+      },
+      {
+        "question": "Tên đầy đủ của nữ lập trình viên đầu tiên và cũng là tên của một ngôn ngữ lập trình song song phổ biến?",
+        "answer": "ADALOVELACE"
+      },
+      {
+        "question": "Loại phần mềm nào chỉ được cấp phép sử dụng trên máy người dùng trong một khoảng thời gian ngắn hạn?",
+        "answer": "SHAREWARE"
+      },
+      {
+        "question": "Công nghệ thành phố thông minh (Sensing City Technology) do đại học MIT thiết lập tại Toronto còn có tên gọi khác là?",
+        "answer": "QUAYSIDE"
+      },
+      {
+        "question": "Một mảng công nghệ học về phân tử với kích thước 1 - 100 nm?",
+        "answer": "NANOTECHNOLOGY"
+      },
+      {
+        "question": "Tên một loại virus được thiết kế để lợi dụng tấn công một lỗ hỏng bảo mật trước khi nó được phát hiện?",
+        "answer": "ZERODAY"
+      },
+      {
+        "question": "Một trình duyệt web được phát triển để nâng cao độ bảo mật khi tìm kiếm của người dùng?",
+        "answer": "DUCKDUCKGO"
+      },
+      {
+        "question": "Tên đầy đủ của loại định dạng file, viết tắt là RTF?",
+        "answer": "RICHTEXTFORMAT"
+      },
+      {
+        "question": "Thuật ngữ đề ra bởi nhà khoa học Gartner năm 2016, mang ý nghĩa áp dụng máy học vào việc điều hành và phân tích quy trình phát triển phần mềm?",
+        "answer": "AIOPS"
+      },
+      {
+        "question": "Tên viết tắt của một hệ thống ứng dụng tự động hóa, nói về việc nâng cao năng suất lao động bằng phần mềm robot hoặc AI?",
+        "answer": "RPA"
+      },
+      {
+        "question": "Phương pháp thiết kế phần mềm phát triển bởi Harlan Mills, đề cao việc xây dựng phần mềm mang tính bền bỉ, ít lỗi nhất có thể?",
+        "answer": "CLEANROOM"
+      },
+      {
+        "question": "Tên viết tắt của một nguyên tắc trong lập trình, rằng khi đưa input lỗi thì tất nhiên output cũng lỗi?",
+        "answer": "GIGO"
+      },
+      {
+        "question": "Một mảng lớn trong việc kiểm thử phần mềm, sau unit testing và trước validation testing?",
+        "answer": "INTEGRATIONTESTING"
+      },
+      {
+        "question": "Phần biên giữa 2 thành phần của một hệ thống, dùng để trao đổi thông tin giữa 2 bên, ví dụ điển hình như touchscreen?",
+        "answer": "INTERFACE"
+      },
+      {
+        "question": "Thành phần đầu tiên không thể thiếu khi bắt đầu chạy và tích hợp hệ điều hành vào máy chủ?",
+        "answer": "INTEGRATIONTESTING"
+      },
+      {
+        "question": "Tên gọi chung cho các thiết bị hỗ trợ (phụ) được tích hợp vào hệ thống máy tính, dùng để trao đổi thông tin?",
+        "answer": "PERIPHERAL"
+      },
+      {
+        "question": "Một thông số cho biết chất lượng xê dịch mã nguồn (obfuscation) sao cho các đoạn mã không bị đánh cắp?",
+        "answer": "RESILIENCE"
+      },
+      {
+        "question": "Một loại điều kiện (phải luôn đúng) dùng để kiểm tra sau khi chạy một chức năng đề ra trong yêu cầu phần mềm?",
+        "answer": "POSTCONDITION"
+      },
+      {
+        "question": "Một loại giá trị cho phép truy cập gián tiếp vào vùng nhớ của một cấu trúc dữ liệu?",
+        "answer": "REFERENCE"
+      },
+      {
+        "question": "Tên của mảng nghiên cứu trong nguyên lý ngôn ngữ lập trình, tập trung về các điều kiện toán học để định nghĩa cấu trúc và cú pháp của một ngôn ngữ lập trình?",
+        "answer": "SEMANTICS"
+      },
+      {
+        "question": "Khi lập trình, chúng ta thường viết một cụm lệnh để làm một task nào đó, và có thể dùng lại cụm lệnh đó cho nhiều chỗ khác nhau trong chương trình. Cụm lệnh đó còn được gọi là?",
+        "answer": "SUBROUTINE"
+      },
+      {
+        "question": "Tín hiệu gửi đến bộ vi xử lý để yêu cầu xử lý tức thì?",
+        "answer": "INTERRUPT"
+      },
+      {
+        "question": "Trong C/C++, từ này mô tả hành động khai báo biến/lớp mà chưa nêu định nghĩa đầy đủ của nó ngay lập tức.",
+        "answer": "OBJECTINSTATIATION"
+      },
+      {
+        "question": "Một loại hình thức lý luận với chân giá trị là số thực trong khoảng 0 đến 1.",
+        "answer": "FUZZYLOGIC"
+      },
+      {
+        "question": "Đây là thuật toán nén không mất mát thông tin, dựa trên việc mã hóa ký tự thành chuỗi bit.",
+        "answer": "HUFFMAN"
+      },
+      {
+        "question": "Cho 2 điểm A(x1, y1) và B(x2, y2). Khoảng cách d(A, B) = |x1 - x2| + |y1 - y2|. Đây là độ đo khoảng cách gì?",
+        "answer": "MANHATTAN"
+      },
+      {
+        "question": "Một ngôn ngữ lập trình mã nguồn mở, được thiết kế tại Google bởi Robert Griesemer, Rob Pike và Ken Thompson.",
+        "answer": "GOLANG"
+      },
+      {
+        "question": "Một giao thức chuẩn TCP/IP được dùng để truyền tải thư điện tử (e-mail) trên mạng Internet?",
+        "answer": "SMTP"
+      },
+      {
+        "question": "Một loại định dạng ký tự Unicode được dùng phổ biến trên phần lớn các trang web hiện nay?",
+        "answer": "UTF8"
+      },
+      {
+        "question": "Hệ điều hành MS-DOS thường gán các ổ cứng ký tự từ C trở đi, vậy các chữ cái A và B được dành cho thiết bị nào?",
+        "answer": "FLOPPYDISK"
+      },
+      {
+        "question": "Một loại design pattern diễn tả một nhóm đối tượng có thể được dùng như một đối tượng chung lớp với nhau.",
+        "answer": "COMPOSITE"
+      },
+      {
+        "question": "Cho số thành phố (TP) và chi phí di chuyển giữa các TP. Tìm đường đi có chi phí thấp nhất sao cho qua mọi TP và trở về TP ban đầu, và mỗi TP chỉ đi qua 1 lần. Tên viết tắt của bài toán này là?",
+        "answer": "TSP"
+      },
+      {
+        "question": "Một công nghệ phân tích dữ liệu nghiệp vụ đa chiều cũng như cung cấp các tính năng tính toán phức tạp, phân tích xu hướng mô hình hóa dữ liệu.",
+        "answer": "OLAP"
+      },
+      {
+        "question": "Phân phối của biến ngẫu nhiên số lần tung đồng xu để ra mặt ngửa lần đầu?",
+        "answer": "GEOMETRIC"
+      },
+      {
+        "question": "This is an open-source, cross-platform, back-end Javascript runtime environment that runs on V8 engine and executes Javascript code outside a web browser.",
+        "answer": "NODEJS"
+      },
+      {
+        "question": "Tên của mô hình điện toán phân tán, đưa tính toán và lưu trữ dữ liệu đến gần vị trí cần thiết hơn, để cải thiện thời gian phản hồi và tiết kiệm băng thông?",
+        "answer": "EDGECOMPUTING"
+      },
+      {
+        "question": "Tên của một thuật toán sắp xếp không so sánh, hoạt động bằng cách sắp xếp các số theo từng chữ số một.",
+        "answer": "RADIXSORT"
+      },
+      {
+        "question": "Hệ thống quản lý tập tin thường được sử dụng trên các hệ điều hành Windows hiện nay (bắt đầu từ Windows NT 3.1)",
+        "answer": "NTFS"
+      },
+      {
+        "question": "Một lĩnh vực trong điều tra tội phạm máy tính, nhầm thu thập chứng cứ",
+        "answer": "FORENSICS"
+      },
+      {
+        "question": "Tên gọi viết tắt của 4 công nghệ mới, có ý nghĩa quan trọng, xem như chất xúc tác cho những thay đổi lớn trong công nghệ.",
+        "answer": "DARQ"
+      },
+      {
+        "question": "5V - hãy cho biết tính chất còn thiếu trong 5 tính chất quan trọng của Big Data: Volume, Variety, Velocity, Value và ...",
+        "answer": "VERACITY"
+      },
+      {
+        "question": "Đây là một bộ giao thức dùng để bảo mất các giao tiếp IP bằng cách xác minh và mã hóa từng IP Packet trong một datastream.",
+        "answer": "IPSEC"
+      },
+      {
+        "question": "Một mô hình xử lý dữ liệu lớn (Big Data) một cách song song (Parallel) và thuật toán được phân tán (Distributed) trên một cluster.",
+        "answer": "MAPREDUCE"
+      },
+      {
+        "question": "Thuật ngữ dùng để chỉ bản sao kỹ thuật số của các thực thể trong thế giới thực, được tạo ra, cập nhật và duy trì tương ứng với các thay đổi của đối tượng thật.",
+        "answer": "DIGITALTWIN"
+      },
+      {
+        "question": "Một mạng CNN được thiết kế để làm việc với hàng trăm hoặc hàng nghìn lớp chập.",
+        "answer": "RESNET"
+      },
+      {
+        "question": "Đơn vị dùng để trao đổi các món hàng trong các game sử dụng nền tảng blockchain",
+        "answer": "NFT"
+      },
+      {
+        "question": "Chương trình chơi cờ vây thông minh phát triển bởi Google",
+        "answer": "ALPHAGO"
+      },
+      {
+        "question": "A method used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network.",
+        "answer": "BACKPROPAGATION"
+      },
+      {
+        "question": "A simplifying representation used in natural language processing and information retrieval (IR).",
+        "answer": "BAGOFWORDS"
+      },
+      {
+        "question": "A technique for improving the performance and stability of artificial neural networks. It is a technique to provide any layer in a neural network with inputs that are zero mean/unit variance.",
+        "answer": "BATCHNORMALIZATION"
+      },
+      {
+        "question": "A type of stochastic recurrent neural network and Markov random field.",
+        "answer": "BOLTZMANMACHINE"
+      },
+      {
+        "question": "A computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.",
+        "answer": "CHATBOT"
+      },
+      {
+        "question": "An incremental system for hierarchical conceptual clustering. Each node in a classification tree represents a class (concept) and is labeled by a probabilistic concept that summarizes the attribute-value distributions of objects classified under the node",
+        "answer": "COBWEB"
+      },
+      {
+        "question": "A computer go program developed by Facebook, based on deep learning techniques using a convolutional neural network.",
+        "answer": "DARKFOREST"
+      },
+      {
+        "question": "A declarative logic programming language that syntactically is a subset of Prolog. It is often used as a query language for deductive databases.",
+        "answer": "DATALOG"
+      },
+      {
+        "question": "A test which gauges whether a computer-based synthesized voice can tell a joke with sufficient skill to cause people to laugh.",
+        "answer": "EBERTTEST"
+      },
+      {
+        "question": "A learning method in which the system tries to construct a general, input-independent target function during training of the system, as opposed to lazy learning.",
+        "answer": "EAGERLEARNING"
+      },
+      {
+        "question": "A computer system that emulates the decision-making ability of a human expert.",
+        "answer": "EXPERTSYSTEM"
+      },
+      {
+        "question": "A kind of logic that distinguishes itself from propositional logic, which does not use quantifiers or relations.[",
+        "answer": "FIRSTORDERLOGIC"
+      },
+      {
+        "question": "A heuristic search method that seeks to automate the process of selecting, combining, generating, or adapting several simpler heuristics (or components of such heuristics) to efficiently solve computational search problems.",
+        "answer": "HYPERHEURISTIC"
+      },
+      {
+        "question": "A graphical breakdown of a question that dissects it into its different components vertically and that progresses into details as it reads to the right.",
+        "answer": "ISSUETREE"
+      },
+      {
+        "question": "A well-known knowledge representation system in the tradition of semantic networks and frames; that is, it is a frame language.",
+        "answer": "KLONE"
+      },
+      {
+        "question": "A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.",
+        "answer": "LISP"
+      },
+      {
+        "question": "A multidisciplinary branch of engineering that focuses on the engineering of both electrical and mechanical systems.",
+        "answer": "MECHATRONICS"
+      },
+      {
+        "question": "Rule of inference. It can be summarized as <P implies Q and P is asserted to be true, therefore Q must be true>",
+        "answer": "MODUSPONENS"
+      },
+      {
+        "question": "An early backward chaining expert system that used artificial intelligence to identify bacteria causing severe infections, such as bacteremia and meningitis, and to recommend antibiotics.",
+        "answer": "MYCIN"
+      },
+      {
+        "question": "The problem-solving principle that states that when presented with competing hypotheses that make the same predictions, one should select the solution with the fewest assumptions.",
+        "answer": "OCKHAMRAZOR"
+      },
+      {
+        "question": "The automatic or semi-automatic creation of ontologies, including extracting the corresponding domain's terms and the relationships between the concepts that these terms represent from a corpus of natural language text.",
+        "answer": "ONTOLOGYLEARNING"
+      },
+      {
+        "question": "An ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes.",
+        "answer": "RANDOMFOREST"
+      },
+      {
+        "question": "A pattern matching algorithm for implementing rule-based systems. The algorithm was developed to efficiently apply many rules or patterns to many objects, or facts, in a knowledge base.",
+        "answer": "RETEALGORITHM"
+      },
+      {
+        "question": "A probabilistic technique for approximating the global optimum of a given function. Specifically, it is a metaheuristic to approximate global optimization in a large search space for an optimization problem.",
+        "answer": "SIMULATEDANNEALING"
+      },
+      {
+        "question": "An RDF query language—that is, a semantic query language for databases—able to retrieve and manipulate data stored in Resource Description Framework (RDF) format.",
+        "answer": "SPARQL"
+      },
+      {
+        "question": "A free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications.",
+        "answer": "TENSORFLOW"
+      },
+      {
+        "question": "A heuristic for choosing actions that addresses the exploration-exploitation dilemma in the multi-armed bandit problem.",
+        "answer": "THOMPSONSAMPLING"
+      },
+      {
+        "question": "A large dataset of written or spoken material that can be used to train a machine to perform linguistic tasks.",
+        "answer": "CORPUS"
+      },
+      {
+        "question": "A symptom of machine learning training in which an algorithm is only able to work on or identify specific examples present in the training data. ",
+        "answer": "OVERFITTING"
+      },
+      {
+        "question": "A controlled, real-life experiment designed to compare two variants of a system or a model.",
+        "answer": "ABTESTING"
+      },
+      {
+        "question": "A type of Artificial Neural Network used to produce efficient representations of data in an unsupervised and non-linear manner, typically to reduce dimensionality.",
+        "answer": "AUTOENCODER"
+      },
+      {
+        "question": "An approximate methodology that uses repeated random sampling in order to generate synthetic simulated data.",
+        "answer": "MONTECARLO"
+      },
+      {
+        "question": "The process of introducing additional information in order to prevent overfitting.",
+        "answer": "REGULARIZATION"
+      },
+      {
+        "question": "In the context of training Deep Learning models, one pass of the full training data set.",
+        "answer": "EPOCH"
+      },
+      {
+        "question": "A measure of a model’s accuracy considering both the precision and the recall to compute the score.",
+        "answer": "FSCORE"
+      },
+      {
+        "question": "A configuration, external to the model and whose value cannot be estimated from data, that data scientists continuously tweak during the process of training a model.",
+        "answer": "HYPERPARAMETER"
+      }
+    ]
+}

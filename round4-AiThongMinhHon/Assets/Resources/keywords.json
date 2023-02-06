@@ -1,0 +1,85 @@
+{
+    "keywords":
+    [
+      {
+        "imageDir": "greentech",
+        "keyword": "GREENTECH",
+        "clues": ["biofuel", "environment", "carbon footprints", "energy", "sustainable development", "climate change", "waste", "solar panel", "renewable", "low-cost", "oxygen", "india"]
+      },
+      {
+        "imageDir": "telehealth",
+        "keyword": "TELEHEALTH",
+        "clues": ["digital information", "healthcare", "food logs", "patient portal", "rural communities", "virtual appointments", "nursing", "medication", "remote monitor", "doctor", "personal", "record"]
+      },
+      {
+        "imageDir": "datacentric-ai",
+        "keyword": "DATACENTRICAI",
+        "clues": ["discipline", "crowdsourcing", "data augmentation", "focus on data", "x10 faster", "steel defects", "improve accuracy", "LandingLens", "machine vision", "AndrewNg", "automotive", "less model"]
+      },
+      {
+        "imageDir": "ai-at-the-edge",
+        "keyword": "AIATTHEEDGE",
+        "clues": ["physical world", "near user", "edge computing", "latency", "realtime", "information security", "reduced costs", "no connection", "federated learning", "5G", "airbus", "video analytics"]
+      },
+      {
+        "imageDir": "digital-twin",
+        "keyword": "DIGITALTWIN",
+        "clues": ["virtual", "realtime", "simulation", "reasoning", "decision-making", "counterpart", "NASA", "double", "modularity", "IoT", "reprogrammable", "digital traces"]
+      },
+      {
+        "imageDir": "confidential-computing",
+        "keyword": "CONFIDENTIALCOMPUTING",
+        "clues": ["private data", "prevent fraud", "hardware-based", "TEE", "secure IP", "Fortanix", "healthcare", "data at rest", "data in motion", "data in use", "integrity", "encryption"]
+      },
+      {
+        "imageDir": "nano-robotics",
+        "keyword": "NANOROBOTICS",
+        "clues": ["very small", "molecular", "nanite", "open design", "biochip", "virus-based", "3d printing", "microswimmer", "nubots", "grey goo", "locomotion", "toxic chemical"]
+      },
+      {
+        "imageDir": "distributed-cloud",
+        "keyword": "DISTRIBUTEDCLOUD",
+        "clues": ["gartner", "public", "cloud provider", "center hardware", "reduced latency", "network congestion", "increase uptime", "performance", "CDN", "bandwidth", "IoT", "edge computing"]
+      },
+      {
+        "imageDir": "cybersecurity-mesh",
+        "keyword": "CYBERSECURITYMESH",
+        "clues": ["defense", "strategy", "perimeter", "firewall", "protection tools", "endpoint", "authentication", "gartner", "fortinet", "vulnerability", "agility", "distributed assets"]
+      },
+      {
+        "imageDir": "voice-as-user-interface",
+        "keyword": "VOICEASUSERINTERFACE",
+        "clues": ["CLI", "GUI", "menu-driven", "modality", "efficient input", "speaker", "IoT", "speech recognition", "phone dialing", "dictate", "alexa", "non-verbal"]
+      },
+      {
+        "imageDir": "net-neutrality",
+        "keyword": "NETNEUTRALITY",
+        "clues": ["ISP", "theory", "no difference", "communication", "free and open", "no blocking", "no extra charge", "you control", "controversial", "throttling", "equality", "fake news"]
+      },
+      {
+        "imageDir": "extended-reality",
+        "keyword": "EXTENDEDREALITY",
+        "clues": ["immersion", "VR", "simulated", "real-and-virtual", "encapsulating", "adding to real world", "vehicle design", "try-ons", "surgical", "real estate", "metaverse", "practical"]
+      },
+      {
+        "imageDir": "5g-connectivity",
+        "keyword": "5GCONNECTIVITY",
+        "clues": ["1234", "global growth", "OEMs", "22.8 million jobs", "mobile broadband", "massive iot", "peak data rates", "gigabit LTE", "snapdragon", "tech summit", "Qualcomm", "5th generation"]
+      },
+      {
+        "imageDir": "multiexperience",
+        "keyword": "MULTIEXPERIENCE",
+        "clues": ["touchpoint", "modality", "omnichannel", "digital", "transformation", "sync me", "see me", "know me", "be me", "domino", "understand people", "seamless"]
+      },
+      {
+        "imageDir": "internet-of-senses",
+        "keyword": "INTERNETOFSENSES",
+        "clues": ["visual", "audio", "haptic", "digital sensory", "augment sense", "remote operation", "immersion", "5 senses", "merged reality", "online shopping", "vacations", "VR"]
+      },
+      {
+        "imageDir": "actionable-analytics",
+        "keyword": "ACTIONABLEANALYTICS",
+        "clues": ["relevant data", "correct context", "immediately", "outcome", "accessible", "business intelligence", "smart analysis", "control cost", "enterprise", "decision making", "finding", "learning"]
+      }
+    ]
+}
